@@ -1,3 +1,11 @@
 p {
     color: red;
 }
+#div {
+    width: 100px;
+    height: 100px;
+    color: green;
+    border-color:coral;
+    border-style: solid;
+    border-width: 3px;  
+}
