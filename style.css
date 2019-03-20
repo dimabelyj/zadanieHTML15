@@ -1,6 +1,33 @@
 p {
     color: red;
 }
+#block {
+    display: inline;
+}
+#sq1 {
+    width: 100px; 
+    height: 100px; 
+    background-color: green;
+    display: inline-block; 
+}
+#sq2 {
+        width: 100px; 
+        height: 100px; 
+        background-color: rgb(236, 250, 46);
+        display: inline-block; 
+}
+#sq3 {
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(38, 35, 184);
+    display: inline-block; 
+}
+#sq4 {
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(189, 24, 153);
+    display: inline-block; 
+}
 #div {
     width: 100px; 
     height: 100px; 
