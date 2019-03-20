@@ -2,10 +2,36 @@ p {
     color: red;
 }
 #div {
-    width: 100px;
-    height: 100px;
-    color: green;
+    width: 100px; 
+    height: 100px; 
+    background-color: green;
     border-color:coral;
     border-style: solid;
     border-width: 3px;  
 }
+#div1 {
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(30, 39, 177);
+    border-color:rgb(243, 210, 101);
+    border-style: solid;
+    border-width: 3px;  
+}
+#div2 {
+    width: 100px; 
+    height: 100px; 
+    background-color: rgb(192, 45, 185);
+    border-color:rgb(34, 197, 34);
+    border-style: solid;
+    border-width: 3px;  
+}
+#submit {
+    position: alighn-left;
+    background: #09c;
+    color: rgb(160, 19, 19);
+    font-family: geneva,algerian;
+    height: 30px;
+    width: 90px;
+    border-radius: 15px;
+    border: 2px solid #999
+ }
