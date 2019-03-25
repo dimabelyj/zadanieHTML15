@@ -1,33 +1,55 @@
-p {color: red;}
+p {
+  color: red;
+}
 
-#sq {width: 100px; 
-    height: 100px; 
-    display: inline-block;}
-  .sq1 {background-color: green;}
-  .sq2 {background-color: rgb(236, 250, 46);}
-  .sq3 {background-color: rgb(38, 35, 184);}
-  .sq4 {background-color: rgb(189, 24, 153);}
+#sq {
+  width: 100px; 
+  height: 100px; 
+  display: inline-block;
+  }
+  .sq1 {
+  background-color: green;
+  }
+  .sq2 {
+  background-color: rgb(236, 250, 46);
+  }
+  .sq3 {
+  background-color: rgb(38, 35, 184);
+  }
+  .sq4 {
+  background-color: rgb(189, 24, 153);
+  }
 
-#div {width: 100px; 
-    height: 100px;}
-  .div1{background-color: green;
-    border-color:coral;
-    border-style: solid;
-    border-width: 3px;}
-  .div2 {background-color: rgb(30, 39, 177);
-    border-color:rgb(243, 210, 101);
-    border-style: solid;
-    border-width: 3px;}
-  .div3 {background-color: rgb(192, 45, 185);
-    border-color:rgb(34, 197, 34);
-    border-style: solid;
-    border-width: 3px;}
+#div {
+  width: 100px; 
+  height: 100px;
+  }
+  .div1{
+  background-color: green;
+  border-color:coral;
+  border-style: solid;
+  border-width: 3px;
+  }
+  .div2 {
+  background-color: rgb(30, 39, 177);
+  border-color:rgb(243, 210, 101);
+  border-style: solid;
+  border-width: 3px;
+  }
+  .div3 {
+  background-color: rgb(192, 45, 185);
+  border-color:rgb(34, 197, 34);
+  border-style: solid;
+  border-width: 3px;
+  }
 
-#submit {position: alighn-left;
-    background: #09c;
-    color: rgb(160, 19, 19);
-    font-family: geneva,algerian;
-    height: 30px;
-    width: 90px;
-    border-radius: 15px;
-    border: 2px solid #999}
+#submit {
+  position: alighn-left;
+  background: #09c;
+  color: rgb(160, 19, 19);
+  font-family: geneva,algerian;
+  height: 30px;
+  width: 90px;
+  border-radius: 15px;
+  border: 2px solid #999
+  }
